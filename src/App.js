@@ -21,8 +21,8 @@ function Header() {
           <div className="container header-container">
             <div className="header-left">
               <div className="logo-wrapper">
-                <img src={logoImg} alt="Depositlink Inc." className="logo-img" />
-                <span className="studio-name">Depositlink Inc.</span>
+                <img src={logoImg} alt="Joseph Elkins 1" className="logo-img" />
+                <span className="studio-name">Joseph Elkins 1</span>
               </div>
             </div>
 
@@ -52,8 +52,8 @@ function HomePage() {
       <section id="about" className="section about">
         <div className="container about-row">
           <div className="about-text-container">
-            <h2 className="highlight-title">Depositlink Inc. – Welcome Aboard</h2>
-            <p className="about-text">Depositlink Inc. is a forward-thinking mobile app studio committed to crafting innovative, dependable, and easy-to-use applications. Our mission is to blend creativity with functionality, delivering solutions that span across casual gaming, productivity, lifestyle, and education. Each app we develop is carefully designed with user experience in mind — offering intuitive navigation, thoughtful details, and practical value — to make everyday life simpler, smarter, and more enjoyable for users around the globe.
+            <h2 className="highlight-title">Joseph Elkins 1 – Welcome Aboard</h2>
+            <p className="about-text">Joseph Elkins 1 is a forward-thinking mobile app studio committed to crafting innovative, dependable, and easy-to-use applications. Our mission is to blend creativity with functionality, delivering solutions that span across casual gaming, productivity, lifestyle, and education. Each app we develop is carefully designed with user experience in mind — offering intuitive navigation, thoughtful details, and practical value — to make everyday life simpler, smarter, and more enjoyable for users around the globe.
             </p>
           </div>
           <div className="about-img-container">
@@ -87,12 +87,12 @@ function HomePage() {
           <h2>Contact Us</h2>
           <p>
             If you have any questions about this Privacy Policy, request support, please contact us at:<br />
-            <a href="mailto:foxcarn156371@gmail.com">foxcarn156371@gmail.com</a><br />
+            <a href="mailto:Josephelkins185@gmail.com">Josephelkins185@gmail.com</a><br />
             <span style={{ display: 'inline-block', marginTop: '10px' }}>
-              🏠 Depositlink Inc.
-                1040 Metropolitan Ave
-                Milton - 02186-1021
-                United States (US)
+              🏠 NGUYỄN THỊ THANH VÂN
+                Khu Đường Ngang, Minh Thành
+                Quảng Yên - 02211
+                Vietnam (VN)
             </span>
           </p>
         </div>
@@ -112,7 +112,7 @@ function App() {
         </Routes>
         <footer className="footer">
           <div className="container text-center">
-            <p>&copy; {new Date().getFullYear()} Depositlink Inc. All rights reserved.</p>
+            <p>&copy; {new Date().getFullYear()} Joseph Elkins 1 All rights reserved.</p>
           </div>
         </footer>
       </div>
