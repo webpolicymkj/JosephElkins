@@ -21,8 +21,8 @@ function Header() {
           <div className="container header-container">
             <div className="header-left">
               <div className="logo-wrapper">
-                <img src={logoImg} alt="Pterodynamics Inc." className="logo-img" />
-                <span className="studio-name">Pterodynamics Inc.</span>
+                <img src={logoImg} alt="Catamaran Bio, Inc." className="logo-img" />
+                <span className="studio-name">Catamaran Bio, Inc.</span>
               </div>
             </div>
 
@@ -52,8 +52,8 @@ function HomePage() {
       <section id="about" className="section about">
         <div className="container about-row">
           <div className="about-text-container">
-            <h2 className="highlight-title">Pterodynamics Inc. – Welcome Aboard</h2>
-            <p className="about-text">Pterodynamics Inc. is a forward-thinking mobile app studio committed to crafting innovative, dependable, and easy-to-use applications. Our mission is to blend creativity with functionality, delivering solutions that span across casual gaming, productivity, lifestyle, and education. Each app we develop is carefully designed with user experience in mind — offering intuitive navigation, thoughtful details, and practical value — to make everyday life simpler, smarter, and more enjoyable for users around the globe.
+            <h2 className="highlight-title">Catamaran Bio, Inc. – Welcome Aboard</h2>
+            <p className="about-text">Catamaran Bio, Inc. is a forward-thinking mobile app studio committed to crafting innovative, dependable, and easy-to-use applications. Our mission is to blend creativity with functionality, delivering solutions that span across casual gaming, productivity, lifestyle, and education. Each app we develop is carefully designed with user experience in mind — offering intuitive navigation, thoughtful details, and practical value — to make everyday life simpler, smarter, and more enjoyable for users around the globe.
             </p>
           </div>
           <div className="about-img-container">
@@ -87,11 +87,11 @@ function HomePage() {
           <h2>Contact Us</h2>
           <p>
             If you have any questions about this Privacy Policy, request support, please contact us at:<br />
-            <a href="mailto:batesbraun707929@gmail.com">batesbraun707929@gmail.com</a><br />
+            <a href="mailto:peckbarn646661@gmail.com">peckbarn646661@gmail.com</a><br />
             <span style={{ display: 'inline-block', marginTop: '10px' }}>
-              🏠 Pterodynamics Inc.
-                4240 N Nevada Ave Ste 100
-                Colorado Springs - 80907-4365
+              🏠 Catamaran Bio, Inc.
+                28 State St Ste 980
+                Boston - 02109-1788
                 United States (US)
             </span>
           </p>
@@ -112,7 +112,7 @@ function App() {
         </Routes>
         <footer className="footer">
           <div className="container text-center">
-            <p>&copy; {new Date().getFullYear()} Pterodynamics Inc. All rights reserved.</p>
+            <p>&copy; {new Date().getFullYear()} Catamaran Bio, Inc. All rights reserved.</p>
           </div>
         </footer>
       </div>
